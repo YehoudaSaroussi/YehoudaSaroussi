@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yehouda Saroussi</h1>
 <h3 align="center">A passionate Computer Science Graduate from Ben-Gurion University</h3>
 
-- 🔭 I’m currently working in [RAD](https://github.com/Yuval-Roth/RAD_Internship_Project)
+- 🔭 I’m currently working in [RAD](https://github.com/Yuval-Roth/RAD_Internship_Project) as a java developer
 
 - 📫 How to reach me **yehoudaft@gmail.com**
 
