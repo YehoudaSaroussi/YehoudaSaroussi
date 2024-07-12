@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Yehouda Saroussi</h1>
 <h3 align="center">A passionate Computer Science Graduate from Ben-Gurion University</h3>
+🔭 I’m currently working in RAD as a Java Software Developer in a temporary position, where I:
 
-- 🔭 I’m currently working in [RAD](https://github.com/Yuval-Roth/RAD_Internship_Project) as a Java Software Developer in a temporary position, where I:
-  - Developed microservice-based applications using Java and Spring Boot.
-  - Utilized Spring Data for seamless database interactions with MongoDB.
-  - Created and managed REST APIs for inter-service communication.
-  - Developed user interfaces with Vaadin.
-  - Deployed applications using Docker and managed cloud infrastructure on AWS.
-  - Worked in a team to design, develop, and deploy scalable software solutions.
+Developed microservice-based applications using Java and Spring Boot.
+Utilized Spring Data for seamless database interactions with MongoDB.
+Created and managed REST APIs for inter-service communication.
+Developed user interfaces with Vaadin.
+Deployed applications using Docker and managed cloud infrastructure on AWS.
+Implemented distributed tracing with Zipkin, monitored and alerted on application metrics with Prometheus, and created dashboards using Grafana.
+Worked in a team to design, develop, and deploy scalable software solutions.
+🌱 I have gained substantial experience in various technologies and methodologies, including microservices, database management, Docker, and AWS.
 
-- 🌱 I have gained substantial experience in various technologies and methodologies, including microservices, database management, Docker, and AWS.
+💼 I am actively seeking a full-time position where I can further develop my skills and contribute to impactful projects. If you know of any opportunities or would like to connect, please feel free to reach out!
 
-- 💼 I am actively seeking a full-time position where I can further develop my skills and contribute to impactful projects. If you know of any opportunities or would like to connect, please feel free to reach out!
-
-- 📫 How to reach me **yehoudaft@gmail.com**
+📫 How to reach me yehoudaft@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yehouda-saroussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehouda-saroussi" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
